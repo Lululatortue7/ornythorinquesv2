@@ -1,0 +1,40 @@
+/* Body */
+body {
+  background-color: #f6e3ce;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Header */
+h1 {
+  color: #1e3f20;
+  font-size: 3em;
+  margin-top: 50px;
+}
+
+/* Text */
+p {
+  color: #1e3f20;
+  font-size: 1.5em;
+  line-height: 1.5;
+  margin: 30px auto;
+  max-width: 700px;
+}
+
+/* Image */
+img {
+  border-radius: 50%;
+  height: 300px;
+  margin: 50px auto;
+  display: block;
+}
+
+/* Links */
+a {
+  color: #d15c39;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
